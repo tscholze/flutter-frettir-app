@@ -1,0 +1,28 @@
+name: frettir_app
+description: Feed Reader written in Flutter and Dart
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# Read more about versioning at semver.org.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/background-bottom.png
+    - assets/animation-bird-1.png
+    - assets/overview_page_right_corner.png
+    - assets/overview_page_left_bottom_corner.png
