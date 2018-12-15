@@ -84,7 +84,10 @@ class OverviewPage extends StatelessWidget {
   static Widget _buildFooter() {
     return new Container(
         decoration: BoxDecoration(
-            image: DecorationImage(image: AssetImage("assets/background-bottom.png"),
+            image: DecorationImage(
+                image: AssetImage(
+                    "assets/overview_page_background_bottom.png"
+                ),
                 repeat: ImageRepeat.repeatX,
                 alignment: Alignment.bottomCenter
             )
@@ -92,7 +95,9 @@ class OverviewPage extends StatelessWidget {
         child: Padding(
             padding: EdgeInsets.fromLTRB(20, 0, 0, 20),
             child: Image(
-                image: AssetImage("assets/overview_page_left_bottom_corner.png"),
+                image: AssetImage(
+                    "assets/overview_page_left_bottom_corner.png"
+                ),
                 height: 50,
                 alignment: Alignment.bottomLeft
             )

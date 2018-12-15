@@ -22,7 +22,7 @@ dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/background-bottom.png
+    - assets/overview_page_background_bottom.png
     - assets/animation-bird-1.png
     - assets/overview_page_right_corner.png
     - assets/overview_page_left_bottom_corner.png
