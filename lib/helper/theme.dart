@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 /// App's customized theme.
 final ThemeData frettirThemeData = new ThemeData(
-  primaryColor: Colors.teal,
-  primarySwatch: Colors.teal,
+  primaryColor: Colors.lightBlueAccent,
+  primarySwatch: Colors.lightBlue,
   accentColor: Colors.blue,
   textTheme: TextTheme(
     body1: TextStyle(

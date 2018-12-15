@@ -13,11 +13,11 @@ class FrettirLocalizations {
 
   static Map<String, Map<String, String>> _localizedValues = {
     'en': {
-      'title': 'Hello World',
+      'title': 'Frettir',
       'overview_page.fab.tooltip': 'Add a new blog',
     },
     'de': {
-      'title': 'Hallo Welt',
+      'title': 'Frettir',
       'overview_page.fab.tooltip': 'Füge einen neuen Blog hinzu'
     },
   };
