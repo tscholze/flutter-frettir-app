@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
 /// App's localizations.
+/// Work in progress!
 class FrettirLocalizations {
   final Locale locale;
   FrettirLocalizations(this.locale);

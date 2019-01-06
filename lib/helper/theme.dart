@@ -6,8 +6,7 @@ final ThemeData frettirThemeData = new ThemeData(
   primarySwatch: Colors.lightBlue,
   accentColor: Colors.blue,
   textTheme: TextTheme(
-    body1: TextStyle(
-      color: Colors.red
-    )
+    title: TextStyle(fontSize: 24.0, fontStyle: FontStyle.italic)
   )
 );
+
