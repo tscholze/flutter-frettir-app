@@ -6,19 +6,12 @@
 It is never to late to learn something new. 
 Thats why I want to learn the new Flutter framework and Dart. As a trick to stay focused during the learning nights, I like to create example projects that could be used as a 'trainings area'. I test primarily on iOS.
 
-<center><img src="https://github.com/tscholze/flutter-frettir-app/blob/master/_docs/list.png?raw=true" /></center>
+<img src="https://github.com/tscholze/flutter-frettir-app/blob/master/_docs/list.png?raw=true" />
 
 ## Prerequirements
 - Installed Flutter SDK
 - Android Studio *or*
 - Visual Studio Code
-
-# Thanks to
-Thanks to all the folks that provide such a nice viarty of tutorials and assets.
-- Sun asset: [Purzen](https://openclipart.org/detail/176488/sun)
-- Bird asset: [Firkin](https://openclipart.org/detail/239740/flying-bird-22-frame-5)
-- Grass asset: [Netalloy](https://openclipart.org/detail/84037/grass)
-- Flower asset: [Laobc](https://openclipart.org/detail/61459/simple-flower)
 
 ## Additional helpful links
 This project is a starting point for a Flutter application.
@@ -43,3 +36,10 @@ Just me, [Tobi]([https://tscholze.github.io).
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 Dependencies or assets maybe licensed differently.
+
+## Acknowledgments
+Thanks to all the folks that provide such a nice viarty of tutorials and assets.
+- Sun asset: [Purzen](https://openclipart.org/detail/176488/sun)
+- Bird asset: [Firkin](https://openclipart.org/detail/239740/flying-bird-22-frame-5)
+- Grass asset: [Netalloy](https://openclipart.org/detail/84037/grass)
+- Flower asset: [Laobc](https://openclipart.org/detail/61459/simple-flower)
